@@ -1,6 +1,6 @@
 #!/bin/bash
 names=()
-for i in {1..21}
+for i in {4..25}
 do
 	names+=$i"-struct/umbrella.gro "
 done
